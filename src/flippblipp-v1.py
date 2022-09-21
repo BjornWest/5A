@@ -1,3 +1,4 @@
+n = 100
 def flippBlipp(n):
     
     for x in range(1,n):
@@ -12,4 +13,4 @@ def flippBlipp(n):
             print(out)
         else:
             print(x)
-flippBlipp(100)
+flippBlipp(n)
